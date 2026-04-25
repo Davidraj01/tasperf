@@ -16,7 +16,7 @@ dist/
 .idea/
 
 # OS
-.DS_Store
+.DS_Store8
 Thumbs.db
 
 # Logs
